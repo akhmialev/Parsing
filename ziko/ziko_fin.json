@@ -1,0 +1,1432 @@
+[
+    {
+        "adress": "ul. 11 Listopada 37",
+        "lation": [
+            "49.823244",
+            "19.052752"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 33 484 81 55",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 07:30 - 14:30 "
+    },
+    {
+        "adress": "ul. Norberta Barlickiego 7",
+        "lation": [
+            "49.823277",
+            "19.045990"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 33 484 81 49",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Norberta Barlickiego 7",
+        "lation": [
+            "49.823277",
+            "19.045990"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 33 484 81 50",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Kolista 23",
+        "lation": [
+            "49.802394",
+            "19.029408"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 33 484 81 48",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 20:00 niedziela handlowa 10:00 - 18:00 niedziela niehandlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Mostowa 5",
+        "lation": [
+            "49.827313",
+            "19.049717"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 33 484 81 56",
+        "working_hours": "pon-pt 09:00 - 21:00 sobota 09:00 - 21:00 niedziela handlowa 10:00 - 20:00 "
+    },
+    {
+        "adress": "ul. Warszawska 5",
+        "lation": [
+            "49.830086",
+            "19.043671"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 33 484 81 54",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Kolejowa 18",
+        "lation": [
+            "50.345287",
+            "18.911044"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 05",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 20:00 niedziela handlowa 09:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Jana III Sobieskiego 21",
+        "lation": [
+            "50.294127",
+            "18.953514"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 27",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. 3 Maja 3",
+        "lation": [
+            "50.324471",
+            "19.183952"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": "Infolinia: 12 687 57 47",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Maszewska 2",
+        "lation": [
+            "52.6696778",
+            "15.3081607"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 95 880 99 90",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Budowlanych 13 ",
+        "lation": [
+            "52.722937",
+            "15.229447"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": "Infolinia: 12 687 57 47",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Kazimierza Wielkiego 86",
+        "lation": [
+            "52.753974",
+            "15.233022"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": "Infolinia: 12 687 57 47",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Marcinkowskiego 90A",
+        "lation": [
+            "52.738919",
+            "15.211982"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": "Infolinia: 12 687 57 47",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Matejki 45A",
+        "lation": [
+            "52.735642",
+            "15.211329"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": "Infolinia: 12 687 57 47",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 18:00 niedziela handlowa 10:00 - 18:00 niedziela niehandlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Mickiewicza 7",
+        "lation": [
+            "52.74092",
+            "15.232561"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 95 880 99 92",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Pomorska 34",
+        "lation": [
+            "52.74154799999999",
+            "15.253488"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": "Infolinia: 12 687 57 47",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Basaja 4",
+        "lation": [
+            "50.794781",
+            "23.891505"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 84 538 89 82",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 20:00 niedziela handlowa 08:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Basaja 4",
+        "lation": [
+            "50.794781",
+            "23.891505"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 84 538 89 83",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 18:00 niedziela handlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Andrzeja 19",
+        "lation": [
+            "52.794240",
+            "18.265626"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 52 335 09 97",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 20:00 "
+    },
+    {
+        "adress": "ul. 11 Listopada 2",
+        "lation": [
+            "49.950183",
+            "18.575375"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 01",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Warszawska 2",
+        "lation": [
+            "49.951422",
+            "18.596962"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 34",
+        "working_hours": "pon-pt 09:00 - 21:00 sobota 09:00 - 21:00 niedziela handlowa 10:00 - 20:00 "
+    },
+    {
+        "adress": "ul. Grunwaldzka 104",
+        "lation": [
+            "50.207326",
+            "19.265945"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": "Infolinia: 12 687 57 47",
+        "working_hours": "pon-pt 08:00 - 19:00 sobota 08:00 - 14:00 "
+    },
+    {
+        "adress": "ul. Grunwaldzka 59",
+        "lation": [
+            "50.203185",
+            "19.270152"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 22",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 21:00 niedziela handlowa 10:00 - 20:00 niedziela niehandlowa 10:00 - 20:00 "
+    },
+    {
+        "adress": "ul. Gorzowska 153A",
+        "lation": [
+            "52.701444",
+            "15.120011"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 95 880 99 89",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. 1 Maja 108a",
+        "lation": [
+            "50.259114",
+            "19.053765"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 10",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. 1 Maja 108a",
+        "lation": [
+            "50.259114",
+            "19.053765"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 32 438 86 08",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. 3 Maja 7 ",
+        "lation": [
+            "50.259679",
+            "19.019840"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 16",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. 3 Maja 7 ",
+        "lation": [
+            "50.259679",
+            "19.019840"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 32 438 86 17",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. 3 Maja 7 ",
+        "lation": [
+            "50.259679",
+            "19.019840"
+        ],
+        "name": " Ziko Optyk ",
+        "phones": " tel. 32 438 86 00; 510 474 728",
+        "working_hours": "pon-pt 08:00 - 19:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Panewnicka 40",
+        "lation": [
+            "50.225577",
+            "18.968040"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 36",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Plebiscytowa 39",
+        "lation": [
+            "50.252550",
+            "19.019953"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 26",
+        "working_hours": "pon-pt 07:30 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Plebiscytowa 39",
+        "lation": [
+            "50.252550",
+            "19.019953"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 32 438 86 32",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "aleja Armii Krajowej 38",
+        "lation": [
+            "50.341636",
+            "18.189999"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 77 540 08 83",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 09:00 - 21:00 niedziela handlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Wojska Polskiego 7",
+        "lation": [
+            "50.346671",
+            "18.219078"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 77 540 08 84",
+        "working_hours": "pon-pt 07:30 - 21:00 sobota 08:00 - 18:00 niedziela handlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Henryka Sienkiewicza 27",
+        "lation": [
+            "50.871111",
+            "20.627787"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 41 375 79 68",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Ligonia 14A",
+        "lation": [
+            "50.979922",
+            "18.209447"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 77 540 08 85",
+        "working_hours": "pon-pt 07:30 - 18:00 sobota 08:00 - 14:00 "
+    },
+    {
+        "adress": "aleja 29 Listopada 65",
+        "lation": [
+            "50.083324",
+            "19.952857"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 16 36",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "aleja 29 Listopada 65",
+        "lation": [
+            "50.083324",
+            "19.952857"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 12 448 16 37",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Aleksandry 11",
+        "lation": [
+            "50.012497",
+            "20.019068"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 16 06",
+        "working_hours": "pon-pt 08:00 - 20:30 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Balicka 14",
+        "lation": [
+            "50.081557",
+            "19.883711"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 16 39",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Beskidzka 30A/3",
+        "lation": [
+            "50.016017",
+            "19.950921"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 16 08",
+        "working_hours": "pon-pt 08:00 - 22:00 sobota 08:00 - 17:00 niedziela handlowa 09:00 - 16:00 niedziela niehandlowa 09:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Beskidzka 30A/3",
+        "lation": [
+            "50.016017",
+            "19.950921"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 12 448 17 56",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 17:00 niedziela handlowa 09:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Beskidzka 30A/3",
+        "lation": [
+            "50.016017",
+            "19.950921"
+        ],
+        "name": " Ziko Optyk ",
+        "phones": " tel. 12 44 81 755; 515 331 989",
+        "working_hours": "pon-pt 09:00 - 19:00 sobota 09:00 - 16:00 "
+    },
+    {
+        "adress": "osiedle Centrum C1",
+        "lation": [
+            "50.073014",
+            "20.036947"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 17 81",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "osiedle Centrum C1",
+        "lation": [
+            "50.073014",
+            "20.036947"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 12 448 17 82",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Czerwone Maki 33",
+        "lation": [
+            "50.011818",
+            "19.886555"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 16 92",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 20:00 niedziela handlowa 10:00 - 20:00 "
+    },
+    {
+        "adress": "ul. Czerwone Maki 33",
+        "lation": [
+            "50.011818",
+            "19.886555"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 12 448 17 54",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 20:00 niedziela handlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Czerwone Maki 33",
+        "lation": [
+            "50.011818",
+            "19.886555"
+        ],
+        "name": " Ziko Optyk ",
+        "phones": " tel. 12 448 17 53; 515 331 968",
+        "working_hours": "pon-pt 09:00 - 20:00 sobota 09:00 - 20:00 niedziela handlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Juliana Dunajewskiego 2",
+        "lation": [
+            "50.064114",
+            "19.933527"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 16 40",
+        "working_hours": "pon-pt 08:00 - 22:00 sobota 09:00 - 18:00 niedziela handlowa 10:00 - 18:00 niedziela niehandlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Juliana Dunajewskiego 2",
+        "lation": [
+            "50.064114",
+            "19.933527"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 12 448 16 41",
+        "working_hours": "pon-pt 08:00 - 22:00 sobota 09:00 - 18:00 niedziela handlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Garncarska 2",
+        "lation": [
+            "50.063158",
+            "19.927815"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 17 80",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 09:00 - 17:00 "
+    },
+    {
+        "adress": "ul. Kalwaryjska 12",
+        "lation": [
+            "50.043714",
+            "19.946535"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 17 25",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Kalwaryjska 12",
+        "lation": [
+            "50.043714",
+            "19.946535"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 12 448 17 26",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Marii Konopnickiej 3",
+        "lation": [
+            "50.052857",
+            "19.928887"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 17 07",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Kordiana 34a",
+        "lation": [
+            "50.012429",
+            "19.964858"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 17 77",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Orzechowa 1",
+        "lation": [
+            "50.011721",
+            "19.926773"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 17 19",
+        "working_hours": "pon-pt 07:00 - 21:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "aleja Powstania Warszawskiego 12",
+        "lation": [
+            "50.062909",
+            "19.960791"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 17 78",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Retoryka 23",
+        "lation": [
+            "50.057236",
+            "19.928319"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 16 10",
+        "working_hours": "pon-pt 08:00 - 22:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "osiedle Urocze 1",
+        "lation": [
+            "50.077007",
+            "20.037982"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 16 18",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Lubelska 102",
+        "lation": [
+            "51.445455",
+            "22.611956"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 81 756 09 82",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 20:00 niedziela handlowa 09:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Lubelska 102",
+        "lation": [
+            "51.445455",
+            "22.611956"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 81 756 09 83",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 20:00 niedziela handlowa 09:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Nadstawna 4",
+        "lation": [
+            "51.25269189999999",
+            "22.570881"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 81 756 09 84",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Piotrkowska 29",
+        "lation": [
+            "51.772580",
+            "19.455494"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 42 670 27 12",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Piotrkowska 29",
+        "lation": [
+            "51.772580",
+            "19.455494"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 42 670 27 13",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Puszkina 17",
+        "lation": [
+            "51.757133",
+            "19.534906"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 42 670 27 69",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Zygmunta Kazikowskiego 5",
+        "lation": [
+            "52.177828",
+            "21.558350"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 25 325 39 46",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Konstantego Rudzkiego 9",
+        "lation": [
+            "52.173759",
+            "21.563793"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 25 325 39 53",
+        "working_hours": "pon-pt 07:00 - 21:00 sobota 08:00 - 18:00 niedziela handlowa 08:00 - 20:00 "
+    },
+    {
+        "adress": "ul. Konstytucji 3 Maja 7",
+        "lation": [
+            "52.180725",
+            "21.561142"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 25 325 39 50",
+        "working_hours": "pon-pt 07:30 - 20:00 sobota 08:00 - 16:00 niedziela handlowa 10:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Stary Rynek 1",
+        "lation": [
+            "52.179184",
+            "21.572073"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 25 325 39 47",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Rynek 35",
+        "lation": [
+            "50.474360",
+            "17.332683"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 77 540 08 87",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Kazimierza Wielkiego 24",
+        "lation": [
+            "50.276796",
+            "19.565883"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": "Infolinia: 12 687 57 47",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Kazimierza Wielkiego 24",
+        "lation": [
+            "50.276796",
+            "19.565883"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": "Infolinia: 12 395 11 44",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Krakowska 31",
+        "lation": [
+            "50.666599",
+            "17.924725"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 77 540 08 82",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Jana Matejki 1",
+        "lation": [
+            "52.098103",
+            "21.268109"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 29",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 niedziela handlowa 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Jana Matejki 1",
+        "lation": [
+            "52.098103",
+            "21.268109"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 22 177 87 32",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 niedziela handlowa 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Warszawska 43",
+        "lation": [
+            "52.183735",
+            "20.839197"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 50",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 09:00 - 19:00 "
+    },
+    {
+        "adress": "ul. Warszawska 43",
+        "lation": [
+            "52.183735",
+            "20.839197"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 22 177 87 51",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 09:00 - 19:00 "
+    },
+    {
+        "adress": "osiedle Andaluzja 9",
+        "lation": [
+            "50.367301",
+            "18.980639"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 09",
+        "working_hours": "pon-pt 07:00 - 19:00 sobota 07:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Bytomska 71",
+        "lation": [
+            "50.374453",
+            "18.943440"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 18",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Bytomska 71",
+        "lation": [
+            "50.374453",
+            "18.943440"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 32 438 86 19",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Fryderyka Chopina 38A",
+        "lation": [
+            "51.504784",
+            "16.070558"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 76 817 69 75",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Konfederacka 2",
+        "lation": [
+            "52.397538",
+            "16.871382"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 61 161 24 74",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Opolska 24",
+        "lation": [
+            "52.370786",
+            "16.900931"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 61 161 24 73",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Palacza 36",
+        "lation": [
+            "52.388591",
+            "16.884773"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 61 161 24 68",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 18:00 niedziela handlowa 09:00 - 17:00 niedziela niehandlowa 09:00 - 17:00 "
+    },
+    {
+        "adress": "ul. Rycerska 35",
+        "lation": [
+            "52.402867",
+            "16.872020"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 61 161 24 61",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 14:00 "
+    },
+    {
+        "adress": "ul. 11 Listopada 122",
+        "lation": [
+            "50.282146",
+            "19.176049"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 37",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 09:00 - 19:00 niedziela handlowa 10:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Modrzejowska 16",
+        "lation": [
+            "50.276697",
+            "19.129186"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 29",
+        "working_hours": "pon-pt 07:30 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Beskidzka 135",
+        "lation": [
+            "49.720553",
+            "19.041251"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 33 484 83 47",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. PCK 26 ",
+        "lation": [
+            "50.016405",
+            "20.978205"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 14 696 89 91",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 07:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Poczdamska 8",
+        "lation": [
+            "50.444276",
+            "18.825725"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 11",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Poczdamska 8",
+        "lation": [
+            "50.444276",
+            "18.825725"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 32 438 86 12",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Mickiewicza 2",
+        "lation": [
+            "52.558800",
+            "17.819058"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 61 161 24 69",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Belgradzka 22",
+        "lation": [
+            "52.140593",
+            "21.058273"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 18",
+        "working_hours": "pon-pt 07:30 - 22:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Belgradzka 22",
+        "lation": [
+            "52.140593",
+            "21.058273"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 22 177 87 19",
+        "working_hours": "pon-pt 08:00 - 22:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Broniewskiego 28",
+        "lation": [
+            "52.267023",
+            "20.963640"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 25",
+        "working_hours": "pon-pt 07:30 - 21:45 sobota 09:15 - 21:00 niedziela handlowa 09:15 - 20:00 "
+    },
+    {
+        "adress": "ul. Cynamonowa 19",
+        "lation": [
+            "52.150042",
+            "21.050833"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 00",
+        "working_hours": "pon-pt 07:30 - 21:30 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Dobra 27",
+        "lation": [
+            "52.238166",
+            "21.027790"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 40",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. gen. Augusta Emila Fieldorfa ",
+        "lation": [
+            "52.224453",
+            "21.091243"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 64",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 niedziela handlowa 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Jurija Gagarina 2",
+        "lation": [
+            "52.207405",
+            "21.047612"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 43",
+        "working_hours": "pon-pt 07:00 - 22:00 sobota 07:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Jurija Gagarina 2",
+        "lation": [
+            "52.207405",
+            "21.047612"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 22 177 87 44",
+        "working_hours": "pon-pt 09:00 - 21:00 sobota 09:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Indiry Gandhi 15",
+        "lation": [
+            "52.147380",
+            "21.042086"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 45",
+        "working_hours": "pon-pt 07:30 - 21:30 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Grochowska 174/176",
+        "lation": [
+            "52.244976",
+            "21.091404"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 15",
+        "working_hours": "pon-pt 07:30 - 21:00 sobota 08:00 - 16:00 niedziela handlowa 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Grochowska 248",
+        "lation": [
+            "52.245885",
+            "21.079836"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 58",
+        "working_hours": "pon-pt 07:30 - 21:00 sobota 08:00 - 16:00 niedziela handlowa 10:00 - 18:00 niedziela niehandlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Grochowska 248",
+        "lation": [
+            "52.245885",
+            "21.079836"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 22 177 87 59",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Kasprowicza 119",
+        "lation": [
+            "52.289616",
+            "20.931314"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": "Infolinia: 12 687 57 47",
+        "working_hours": "pon-pt 07:30 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Kasprowicza 119",
+        "lation": [
+            "52.289616",
+            "20.931314"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": "Infolinia: 12 395 11 44",
+        "working_hours": "pon-pt 07:30 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Kasprowicza 68/1",
+        "lation": [
+            "52.286538",
+            "20.940012"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 47",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Kasprowicza 68/1",
+        "lation": [
+            "52.286538",
+            "20.940012"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 22 177 87 46",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Kasprzaka 24/9",
+        "lation": [
+            "52.229162",
+            "20.968781"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 24",
+        "working_hours": "pon-pt 07:30 - 21:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "aleja Komisji Edukacji Narodowej 105",
+        "lation": [
+            "52.160220",
+            "21.028102"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 70",
+        "working_hours": "pon-pt 07:00 - 23:00 sobota 07:00 - 23:00 niedziela handlowa 07:00 - 23:00 niedziela niehandlowa 07:00 - 23:00 "
+    },
+    {
+        "adress": "aleja Komisji Edukacji Narodowej 105",
+        "lation": [
+            "52.160220",
+            "21.028102"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 22 177 87 33",
+        "working_hours": "pon-pt 09:00 - 21:00 sobota 09:00 - 18:00 niedziela handlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "aleja Komisji Edukacji Narodowej 19",
+        "lation": [
+            "52.134375",
+            "21.062363"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 09",
+        "working_hours": "pon-pt 08:00 - 22:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "aleja Komisji Edukacji Narodowej 57",
+        "lation": [
+            "52.147444",
+            "21.048589"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": "Infolinia: 12 687 57 47",
+        "working_hours": "pon-pt 08:00 - 22:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "aleja Komisji Edukacji Narodowej 83",
+        "lation": [
+            "52.154810",
+            "21.035593"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 04",
+        "working_hours": "pon-pt 07:30 - 21:45 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Ludwika Kondratowicza 37",
+        "lation": [
+            "52.292712",
+            "21.044368"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 65",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Ludwika Kondratowicza 37",
+        "lation": [
+            "52.292712",
+            "21.044368"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 22 177 87 66",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Antoniego Malczewskiego 56",
+        "lation": [
+            "52.192744",
+            "21.010757"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": "Infolinia: 12 687 57 47",
+        "working_hours": "pon-pt 07:30 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Adama Mickiewicza 27",
+        "lation": [
+            "52.268222",
+            "20.986140"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 52",
+        "working_hours": "pon-pt 07:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Obozowa 16",
+        "lation": [
+            "52.244807",
+            "20.965901"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 54",
+        "working_hours": "pon-pt 07:30 - 20:30 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Obozowa 16",
+        "lation": [
+            "52.244807",
+            "20.965901"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 22 177 87 55",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Odkryta 4",
+        "lation": [
+            "52.324705",
+            "20.938031"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 30",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 09:00 - 17:00 "
+    },
+    {
+        "adress": "ul. Odkryta 4",
+        "lation": [
+            "52.324705",
+            "20.938031"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 22 177 87 31",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 09:00 - 17:00 "
+    },
+    {
+        "adress": "ul. Pirenejska 2C",
+        "lation": [
+            "52.253291",
+            "20.913605"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 60",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 niedziela handlowa 09:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Eugeniusza Romera 10",
+        "lation": [
+            "52.1565187",
+            "21.0209994"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 11",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Targowa 39",
+        "lation": [
+            "52.250785",
+            "21.039461"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 10",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": " ul. Targowa 59",
+        "lation": [
+            "52.252656",
+            "21.036512"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 26",
+        "working_hours": "pon-pt 07:30 - 20:30 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Targowa 76",
+        "lation": [
+            "52.255925",
+            "21.034409"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 53",
+        "working_hours": "pon-pt 07:30 - 21:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Warecka 8",
+        "lation": [
+            "52.236422",
+            "21.016009"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 05",
+        "working_hours": "pon-pt 07:30 - 20:30 sobota 09:00 - 17:00 niedziela handlowa 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Warecka 8",
+        "lation": [
+            "52.236422",
+            "21.016009"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 22 177 87 06",
+        "working_hours": "pon-pt 07:30 - 20:30 sobota 09:00 - 17:00 "
+    },
+    {
+        "adress": "aleja Waszyngtona 2A",
+        "lation": [
+            "52.237828",
+            "21.052890"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 22 177 87 36",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Stary Trakt 2a",
+        "lation": [
+            "50.115566",
+            "19.968212"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 12 448 17 68",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 20:00 niedziela handlowa 10:00 - 18:00 niedziela niehandlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Dokerska 22",
+        "lation": [
+            "51.139624",
+            "16.963539"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 71 778 97 86",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "plac Grunwaldzki 16",
+        "lation": [
+            "51.111212",
+            "17.057672"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 71 778 97 85",
+        "working_hours": "pon-pt 07:30 - 20:00 sobota 08:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Krakowska 1",
+        "lation": [
+            "51.095902",
+            "17.055092"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 71 778 97 74",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 20:00 niedziela handlowa 09:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Pomorska 61",
+        "lation": [
+            "51.121703",
+            "17.031069"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 71 778 97 80",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. Ustronie 1-3 ",
+        "lation": [
+            "51.127573",
+            "17.049304"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 71 778 97 73",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 20:00 niedziela handlowa 09:00 - 18:00 "
+    },
+    {
+        "adress": "ul. 3 Maja 32",
+        "lation": [
+            "50.297584",
+            "18.787178"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 06",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. de Gaulle'a 111-113",
+        "lation": [
+            "50.292155",
+            "18.782663"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 32 438 86 28",
+        "working_hours": "pon-pt 08:00 - 21:00 sobota 08:00 - 20:00 "
+    },
+    {
+        "adress": "ul. Stary Rynek 18",
+        "lation": [
+            "51.938623",
+            "15.504627"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 68 381 79 91",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 16:00 "
+    },
+    {
+        "adress": "ul. 1 Maja 40",
+        "lation": [
+            "52.053784",
+            "20.440686"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 46 464 69 57",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 20:00 niedziela handlowa 10:00 - 19:00 "
+    },
+    {
+        "adress": "ul. 1 Maja 2",
+        "lation": [
+            "49.680127",
+            "19.188681"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 33 484 81 51",
+        "working_hours": "pon-pt 07:00 - 20:00 sobota 08:00 - 15:00 "
+    },
+    {
+        "adress": "ul. Zielona 3",
+        "lation": [
+            "49.690975",
+            "19.200646"
+        ],
+        "name": " Ziko Apteka ",
+        "phones": " tel. 33 484 81 46",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 20:00 niedziela handlowa 10:00 - 18:00 niedziela niehandlowa 10:00 - 18:00 "
+    },
+    {
+        "adress": "ul. Zielona 3",
+        "lation": [
+            "49.690975",
+            "19.200646"
+        ],
+        "name": " Ziko Dermo ",
+        "phones": " tel. 33 484 81 47",
+        "working_hours": "pon-pt 08:00 - 20:00 sobota 08:00 - 20:00 niedziela niehandlowa 10:00 - 18:00 "
+    }
+]
